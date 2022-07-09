@@ -7,6 +7,7 @@ import {
     TouchableOpacity
 } from 'react-native'
 
+
 import {Feather} from '@expo/vector-icons'
 
 const statusBarHeight = StatusBar.currentHeight?StatusBar.currentHeight + 22: 64;
@@ -15,7 +16,10 @@ const statusBarHeight = StatusBar.currentHeight?StatusBar.currentHeight + 22: 64
 export default function Header({name}){
     return(
         <View style={styles.conteiner} >
-            <View style={styles.content}>
+            <View 
+            style={styles.content}
+
+            >
                 <Text style={styles.username}>{name}</Text>
                 <TouchableOpacity activeOpacity={0.9} style={styles.buttonUser}>
                     <Feather name="user" size={27} color="#fff"/>
