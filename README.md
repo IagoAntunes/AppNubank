@@ -2,7 +2,7 @@
 
 
 <h4 align="center"> 
-	🚧 Aplicativo PokeDex 🚧
+	💰 Aplicativo Finanças 💰 
 </h4>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ AppFinanças - Tela inicial do aplicativo desenvolvido para mostrar meus estudos em React
+💰 AppFinanças - Tela inicial do aplicativo desenvolvido para mostrar meus estudos em React
 
 ---
 
